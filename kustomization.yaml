@@ -1,0 +1,8 @@
+secretGenerator:
+- name: mysql-pass
+  literals:
+  - password=tngus2
+resources:
+  - api-project.yaml
+  - mysql-deployment.yaml
+  - web-project.yaml
