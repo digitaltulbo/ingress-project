@@ -34,7 +34,7 @@ spec:
         tier: api
     spec:
       containers:
-      - image: digitaltulbo/backend:latest
+      - image: digitaltulbo/backend:8
         imagePullPolicy: Always
         name: api-app
         env:
