@@ -63,7 +63,7 @@ spec:
         tier: mysql
     spec:
       containers:
-      - image: digitaltulbo/mysql:11
+      - image: digitaltulbo/mysql:12
         name: mysql
         env:
         - name: MYSQL_ROOT_PASSWORD

@@ -34,7 +34,7 @@ spec:
         tier: web
     spec:
       containers:
-      - image: digitaltulbo/frontend:11
+      - image: digitaltulbo/frontend:12
         imagePullPolicy: Always
         name: web-app
         ports:
