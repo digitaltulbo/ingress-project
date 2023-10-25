@@ -6,3 +6,4 @@ resources:
   - api-project.yaml
   - mysql-deployment.yaml
   - web-project.yaml
+  - ingress.yaml
